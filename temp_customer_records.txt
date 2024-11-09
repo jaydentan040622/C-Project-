@@ -1,0 +1,12 @@
+Name: hanshen
+Contact Number: 01136665296
+Membership Card Number: ABC105281
+Balance: 29.50
+Membership Points: 0
+
+Name: hanshrn
+Contact Number: 01212121212
+Membership Card Number: ABC104096
+Balance: 49.5
+Membership Points: 0
+
